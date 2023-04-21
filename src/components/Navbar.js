@@ -29,7 +29,7 @@ const Navbar = () => {
         </div>
         {/* Right */}
         <div className="flex items-center pr-3  font-semibold text-gray-600">
-          <p className="text-[17px]">Rent House</p>
+          <p className="text-[17px]">Accommodation</p>
           <div className="flex items-center mx-8 gap-1">
             <BiWorld className="" />
             <div className="">EN</div>
